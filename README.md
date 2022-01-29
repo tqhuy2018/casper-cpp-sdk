@@ -2,7 +2,7 @@
 Casper C++ SDK provides an interface to establish a connection between the Casper Blockchain and a client. Currently, the SDK is compatible with Linux systems.
 
 ## Dependencies
-1. [CMake Version 3.0.0 or newer](https://cmake.org)
+1. [CMake Version 3.0.0 or newer](https://cmake.org).
 
 
 ## Build
